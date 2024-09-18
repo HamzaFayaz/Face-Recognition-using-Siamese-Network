@@ -7,7 +7,8 @@ showcasing how the model processes and identifies facial features. Despite the l
 
 
 
-https://github.com/user-attachments/assets/2ebc8fb0-8e5d-47d6-a6a3-02782ab8abb0
+https://github.com/user-attachments/assets/46df7de4-a1e5-4e43-97f9-5615a94952fc
+
 
 
 ## This project is not ready for development  i am working on it with better Approach (with face keypiont and landmarks detection)
